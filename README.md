@@ -17,14 +17,14 @@
 - Room pricing
 - Admin Login
 ![login](https://github.com/Utpal7561/Hotel-Booking-System/blob/main/screenshot/LOGIN%20ADMIN.png)
-
+- Admin Dashboard
+![dashboard](https://github.com/Utpal7561/Hotel-Booking-System/blob/main/screenshot/ADMIN.png)
 ![room_pricing](https://user-images.githubusercontent.com/5623994/51089111-f0131a00-1735-11e9-8758-847091e9b68e.PNG)
 - Reservation form
 ![reservation_form](https://user-images.githubusercontent.com/5623994/51089124-218be580-1736-11e9-9400-3cfd5454fe56.PNG)
 - View reservation(s)
 ![view_booking](https://user-images.githubusercontent.com/5623994/51089133-38cad300-1736-11e9-857a-64f9956b9f17.PNG)
-- Admin Dashboard
-![dashboard](https://github.com/Utpal7561/Hotel-Booking-System/blob/main/screenshot/ADMIN.png)
+
 
 
 
