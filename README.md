@@ -23,8 +23,8 @@
 ![reservation_form](https://user-images.githubusercontent.com/5623994/51089124-218be580-1736-11e9-9400-3cfd5454fe56.PNG)
 - View reservation(s)
 ![view_booking](https://user-images.githubusercontent.com/5623994/51089133-38cad300-1736-11e9-857a-64f9956b9f17.PNG)
-- About user
-![about_user](https://user-images.githubusercontent.com/5623994/51089140-4f712a00-1736-11e9-850f-6bb67151711e.PNG)
+- Admin Dashboard
+![dashboard](https://github.com/Utpal7561/Hotel-Booking-System/blob/main/screenshot/ADMIN.png)
 
 
 
